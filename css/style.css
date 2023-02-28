@@ -83,7 +83,7 @@ a{
     line-height: 30px;
 }
 a:hover{
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(255, 96, 96);
     color: rgb(255, 255, 255);
     outline: 3px solid #1900ff;
 }
