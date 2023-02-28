@@ -17,7 +17,6 @@
 body{
     margin: 0;
     padding: 0;
-    color: chartreuse;
 }
 #faixaHeader{
     box-shadow: 2px 5px 7px  var(--cor1) ;
